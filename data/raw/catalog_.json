@@ -1,0 +1,506 @@
+{
+    "Электроника": {
+        "Телевизоры и видеотехника": {
+            "Проекторы": "https://www.ozon.ru/category/proektory-15615/"
+        },
+        "Игровые приставки и ноутбуки": {
+            "Игровые приставки": "https://www.ozon.ru/category/igrovye-pristavki-15801/"
+        },
+        "Фото и видеокамеры": {
+            "Фотоаппараты мгновенной печати": "https://www.ozon.ru/category/fotoapparaty-mgnovennoy-pechati-15627/",
+            "Цифровые фоторамки": "https://www.ozon.ru/category/tsifrovye-fotoramki-15684/"
+        },
+        "Аксессуары для электроники": {
+            "Робототехника": "https://www.ozon.ru/category/roboty-i-drony-15614/"
+        }
+    },
+    "Дом и сад": {
+        "Посуда и кухонные принадлежности": {
+            "Авторская посуда": "https://www.ozon.ru/category/avtorskaya-posuda-35300/"
+        },
+        "Декор и интерьер": {
+            "Картины и панно": "https://www.ozon.ru/category/kartiny-i-panno-15152/",
+            "Свечи и подсвечники": "https://www.ozon.ru/category/svechi-i-podsvechniki-15153/",
+            "Ароматы для дома": "https://www.ozon.ru/category/aromaty-dlya-doma-30931/",
+            "Сувениры и подарки": "https://www.ozon.ru/category/suveniry-15061/",
+            "Копилки": "https://www.ozon.ru/category/kopilki-15056/"
+        },
+        "Цветы, растения и горшки": {
+            "Цветы": "https://www.ozon.ru/category/zhivye-tsvety-i-bukety-14951/"
+        },
+        "Товары для бань и саун": {
+            "Веники для бань": "https://www.ozon.ru/category/veniki-dlya-ban-14861/"
+        },
+        "Товары для праздников": {
+            "Товары к Пасхе": "https://www.ozon.ru/category/tovary-k-pashe-15161/",
+            "Подарочные упаковки": "https://www.ozon.ru/category/podarochnaya-upakovka-14809/",
+            "Праздничный декор": "https://www.ozon.ru/category/ukrasheniya-i-figurki-14973/",
+            "Воздушные шары": "https://www.ozon.ru/category/vozdushnye-shary-31240/",
+            "Мыльные пузыри": "https://www.ozon.ru/category/mylnye-puzyri-14822/",
+            "Свадебные товары": "https://www.ozon.ru/category/svadebnye-tovary-1736/",
+            "Украшения на машину": "https://www.ozon.ru/category/aksessuary-na-limuzin-30627/",
+            "Открытки": "https://www.ozon.ru/category/otkrytki-14875/",
+            "Свечи для торта": "https://www.ozon.ru/category/svechi-dlya-torta-14844/",
+            "Топперы для торта": "https://www.ozon.ru/category/toppery-dlya-torta-31858/",
+            "Фотобутафория": "https://www.ozon.ru/category/fotobutaforiya-14818/",
+            "Награды и кубки": "https://www.ozon.ru/category/priglasheniya-na-prazdniki-19057/",
+            "Китайские фонарики": "https://www.ozon.ru/category/kitayskie-fonariki-14828/",
+            "Пиньяты": "https://www.ozon.ru/category/pinyaty-19055/",
+            "Карнавальные товары": "https://www.ozon.ru/category/karnavalnye-tovary-31239/",
+            "Краски Холи": "https://www.ozon.ru/category/kraski-holi-32928/",
+            "Фейерверки и салюты": "https://www.ozon.ru/category/feyerverki-i-salyuty-14823/"
+        }
+    },
+    "Детские товары": {
+        "Игрушки и игры": {
+            "Мягкие игрушки": "https://www.ozon.ru/category/myagkie-igrushki-7175/",
+            "Игрушечное оружие": "https://www.ozon.ru/category/igrushechnoe-oruzhie-i-blastery-7141/",
+            "Конструкторы": "https://www.ozon.ru/category/konstruktory-7174/",
+            "Игрушки для малышей": "https://www.ozon.ru/category/igrushki-dlya-malyshey-7119/",
+            "Игрушки для ванной": "https://www.ozon.ru/category/igrushki-dlya-vannoy-7121/",
+            "Куклы и аксессуары": "https://www.ozon.ru/category/kukly-i-aksessuary-31272/",
+            "Фигурки и аксессуары": "https://www.ozon.ru/category/figurki-i-aksessuary-7169/",
+            "Сюжетно-ролевые игрушки": "https://www.ozon.ru/category/syuzhetno-rolevye-igrushki-7112/",
+            "Игрушечный транспорт": "https://www.ozon.ru/category/igrushechnye-mashinki-i-tehnika-7142/",
+            "Радиоуправляемые игрушки": "https://www.ozon.ru/category/radioupravlyaemye-igrushki-7149/",
+            "Интерактивные и электронные игрушки": "https://www.ozon.ru/category/interaktivnye-igrushki-30148/",
+            "Роботы и трансформеры": "https://www.ozon.ru/category/roboty-i-transformery-7167/",
+            "Развивающие игры": "https://www.ozon.ru/category/razvivayushchie-i-obuchayushchie-igrushki-7176/",
+            "Настольные игры": "https://www.ozon.ru/category/nastolnye-igry-dlya-detey-7172/",
+            "Игрушки-антистресс": "https://www.ozon.ru/category/igrushki-antistress-7181/",
+            "Подарочные наборы": "https://www.ozon.ru/category/podarochnye-nabory-igrushek-35388/",
+            "Авторские игрушки": "https://www.ozon.ru/category/avtorskie-igrushki-35343/"
+        }
+    },
+    "Красота и здоровье": {
+        "Уход за волосами": {
+            "Косметические наборы": "https://www.ozon.ru/category/kosmeticheskie-nabory-dlya-volos-6682/"
+        },
+        "Уход за лицом": {
+            "Наборы средств для лица": "https://www.ozon.ru/category/nabory-sredstv-dlya-litsa-30521/"
+        },
+        "Уход за телом": {
+            "Наборы косметики": "https://www.ozon.ru/category/nabory-kosmetiki-dlya-uhoda-za-kozhey-6582/"
+        },
+        "Макияж": {
+            "Наборы для макияжа": "https://www.ozon.ru/category/nabory-dlya-makiyazha-6550/"
+        },
+        "Парфюмерия": {
+            "Парфюмированный набор": "https://www.ozon.ru/category/parfyumirovannyy-nabor-6668/"
+        },
+        "Мужская косметика": {
+            "Наборы для гигиены": "https://www.ozon.ru/category/nabory-dlya-gigieny-muzhskie-39217/"
+        }
+    },
+    "Продукты питания": {
+        "Выпечка и сладости": {
+            "Подарочные наборы": "https://www.ozon.ru/category/podarochnye-nabory-konfet-9394/"
+        }
+    },
+    "Книги": {
+        "Нехудожественная литература": {
+            "Саморазвитие": "https://www.ozon.ru/category/samorazvitie-32618/",
+            "Психология": "https://www.ozon.ru/category/populyarnaya-psihologiya-samorazvitie-40011/",
+            "Научная литература": "https://www.ozon.ru/category/nauchnaya-literatura-40021/",
+            "Медицина": "https://www.ozon.ru/category/meditsina-16551/",
+            "Юридическая литература": "https://www.ozon.ru/category/pravo-40022/",
+            "Искусство и культура": "https://www.ozon.ru/category/iskusstvo-i-fotografiya-40013/",
+            "История": "https://www.ozon.ru/category/istoriya-16552/",
+            "Публицистика": "https://www.ozon.ru/category/publitsistika-16518/",
+            "Эзотерика и спиритизм": "https://www.ozon.ru/category/ezoterika-i-spiritizm-40016/",
+            "Кулинарные книги": "https://www.ozon.ru/category/kulinarnye-knigi-40018/",
+            "Домоводство и хобби": "https://www.ozon.ru/category/dom-i-hobbi-40019/",
+            "Красота, здоровье и спорт": "https://www.ozon.ru/category/krasota-zdorove-i-sport-40012/",
+            "Религиозные книги": "https://www.ozon.ru/category/religiya-40015/",
+            "Компьютерные технологии": "https://www.ozon.ru/category/kompyuternye-tehnologii-40020/",
+            "Энциклопедии и справочники": "https://www.ozon.ru/category/entsiklopedii-spravochniki-40017/",
+            "Научно-популярная литература": "https://www.ozon.ru/category/nauchno-populyarnaya-literatura-34065/",
+            "Путешествия. Путеводители": "https://www.ozon.ru/category/puteshestviya-putevoditeli-40028/"
+        },
+        "Бизнес-литература": {
+            "Менеджмент и управление": "https://www.ozon.ru/category/menedzhment-i-upravlenie-40055/",
+            "Маркетинг и продажи": "https://www.ozon.ru/category/marketing-i-prodazhi-40054/",
+            "Экономика": "https://www.ozon.ru/category/ekonomika-40063/",
+            "Инвестиции и недвижимость": "https://www.ozon.ru/category/investitsii-40050/",
+            "Финансы": "https://www.ozon.ru/category/finansy-40062/",
+            "Бизнес-образование и развитие карьеры": "https://www.ozon.ru/category/biznes-obrazovanie-40047/",
+            "Биографии и истории успеха": "https://www.ozon.ru/category/biografii-i-istorii-uspeha-40048/",
+            "Бухгалтерский учет и делопроизводство": "https://www.ozon.ru/category/buhgalterskiy-uchet-40049/"
+        },
+        "Художественная литература": {
+            "Проза": "https://www.ozon.ru/category/proza-35410/",
+            "Детективы": "https://www.ozon.ru/category/detektivy-trillery-40003/",
+            "Фэнтези": "https://www.ozon.ru/category/fentezi-33046/",
+            "Фантастика": "https://www.ozon.ru/category/fantastika-i-fentezi-40002/",
+            "Молодежная и подростковая литература": "https://www.ozon.ru/category/literatura-dlya-podrostkov-33015/",
+            "Ужасы и триллеры": "https://www.ozon.ru/category/uzhasy-trillery-32998/",
+            "Сентиментальная проза": "https://www.ozon.ru/category/romany-40005/",
+            "Фольклор": "https://www.ozon.ru/category/folklor-35412/",
+            "Поэзия": "https://www.ozon.ru/category/poeziya-40007/",
+            "Приключения": "https://www.ozon.ru/category/priklyucheniya-33098/",
+            "Боевики": "https://www.ozon.ru/category/knigi-boeviki-35414/",
+            "Пьесы и драматургия": "https://www.ozon.ru/category/pesy-i-dramaturgiya-35413/",
+            "Античная литература": "https://www.ozon.ru/category/antichnaya-literatura-37687/",
+            "Юмор": "https://www.ozon.ru/category/yumor-40008/"
+        },
+        "Детям и родителям": {
+            "Художественная литература": "https://www.ozon.ru/category/hudozhestvennaya-literatura-40046/",
+            "Развитие детей": "https://www.ozon.ru/category/razvitie-rebenka-40044/",
+            "Познавательная литература": "https://www.ozon.ru/category/poznavatelnaya-literatura-40041/",
+            "Досуг и творчество": "https://www.ozon.ru/category/dosug-i-tvorchestvo-detey-40035/",
+            "Комиксы": "https://www.ozon.ru/category/komiksy-40038/"
+        },
+        "Электронные книги": {
+            "Нехудожественная литература": "https://www.ozon.ru/category/tsifrovye-knigi-nehudozhestvennaya-literatura-39483/",
+            "Художественная литература": "https://www.ozon.ru/category/tsifrovye-knigi-hudozhestvennaya-literatura-39482/",
+            "Детям и родителям": "https://www.ozon.ru/category/tsifrovye-knigi-detyam-i-roditelyam-39480/",
+            "Журналы и газеты": "https://www.ozon.ru/category/tsifrovye-knigi-zhurnaly-gazety-39485/"
+        },
+        "Букинистика": {
+            "Художественная литература": "https://www.ozon.ru/category/bukinistika-hudozhestvennaya-literatura-33074/",
+            "Нехудожественная литература": "https://www.ozon.ru/category/bukinistika-nehudozhestvennaya-literatura-33075/",
+            "Детям и родителям": "https://www.ozon.ru/category/bukinistika-detyam-i-roditelyam-33073/",
+            "Комиксы": "https://www.ozon.ru/category/bukinistika-komiksy-manga-33105/",
+            "Манга": "https://www.ozon.ru/category/bukinistika-manga-34828/",
+            "Журналы и газеты": "https://www.ozon.ru/category/bukinistika-zhurnaly-i-gazety-39813/"
+        },
+        "Комиксы": "https://www.ozon.ru/category/komiksy-manga-40027/",
+        "Манга": "https://www.ozon.ru/category/manga-32576/",
+        "Печать по требованию": "https://www.ozon.ru/category/pechat-po-trebovaniyu-16550/",
+        "Подарочные издания книг": "https://www.ozon.ru/category/podarochnye-izdaniya-16547/",
+        "Журналы и газеты": "https://www.ozon.ru/category/zhurnaly-gazety-34105/",
+        "Литература на иностранных языках": {
+            "Английский язык": "https://www.ozon.ru/category/knigi-na-angliyskom-yazyke-33038/",
+            "Испанский язык": "https://www.ozon.ru/category/knigi-na-ispanskom-yazyke-33043/",
+            "Немецкий язык": "https://www.ozon.ru/category/knigi-na-nemetskom-yazyke-33039/",
+            "Французский язык": "https://www.ozon.ru/category/knigi-na-frantsuzskom-yazyke-33040/",
+            "Итальянский язык": "https://www.ozon.ru/category/knigi-na-italyanskom-yazyke-33042/",
+            "Другие языки": "https://www.ozon.ru/category/knigi-na-drugih-yazykah-39602/"
+        },
+        "Электронные аудиокниги": {
+            "Нехудожественная литература": "https://www.ozon.ru/category/tsifrovye-audioknigi-nehudozhestvennaya-literatura-39505/",
+            "Художественная литература": "https://www.ozon.ru/category/tsifrovye-audioknigi-hudozhestvennaya-literatura-39504/",
+            "Детям и родителям": "https://www.ozon.ru/category/tsifrovye-audioknigi-detyam-i-roditelyam-39502/"
+        },
+        "Аудиокниги на носителях": "https://www.ozon.ru/category/audioknigi-16548/",
+        "Подписки на электронные книги и аудиокниги": {
+            "Цифровые товары": "https://www.ozon.ru/category/tsifrovye-tovary-32056/",
+            "Онлайн-подписки": "https://www.ozon.ru/category/podpiski-na-filmy-i-muzyku-35607/",
+            "Электронные и аудиокниги": "https://www.ozon.ru/category/podpiski-na-knigi-i-audioknigi-34453/"
+        },
+        "Антикварные книги": {
+            "Нехудожественная литература": "https://www.ozon.ru/category/antikvarnye-knigi-nehudozhestvennaya-literatura-36572/",
+            "Художественная литература": "https://www.ozon.ru/category/antikvarnye-knigi-hudozhestvennaya-literatura-36570/",
+            "Детям и родителям": "https://www.ozon.ru/category/antikvarnye-knigi-detyam-i-roditelyam-36573/",
+            "Антикварные газеты и журналы": "https://www.ozon.ru/category/antikvarnye-gazety-i-zhurnaly-36656/"
+        },
+        "Книги б/у": {
+            "Художественная литература": "https://www.ozon.ru/category/knigi-b-u-hudozhestvennaya-literatura-35529/",
+            "Нехудожественная литература": "https://www.ozon.ru/category/knigi-b-u-nehudozhestvennaya-literatura-35537/",
+            "Детям и родителям": "https://www.ozon.ru/category/knigi-b-u-detyam-i-roditelyam-35547/",
+            "Комиксы": "https://www.ozon.ru/category/knigi-b-u-komiksy-35549/",
+            "Манга": "https://www.ozon.ru/category/knigi-b-u-manga-36659/"
+        },
+        "Буклеты, листовки и брошюры": "https://www.ozon.ru/category/buklety-listovki-broshyury-39597/"
+    },
+    "Хобби и творчество": {
+        "Рукоделие": {
+            "Аксессуары и материалы": "https://www.ozon.ru/category/aksessuary-i-materialy-dlya-rukodeliya-13646/",
+            "Инструменты и инвентарь": "https://www.ozon.ru/category/instrumenty-dlya-rukodeliya-13617/",
+            "Валяние": "https://www.ozon.ru/category/valyanie-13607/",
+            "Выжигание и поделки из дерева": "https://www.ozon.ru/category/vyzhiganie-podelki-iz-dereva-13722/",
+            "Вышивание": "https://www.ozon.ru/category/vyshivanie-13587/",
+            "Вязание": "https://www.ozon.ru/category/vyazanie-13588/",
+            "Декупаж": "https://www.ozon.ru/category/dekupazh-13574/",
+            "Изготовление игрушек": "https://www.ozon.ru/category/nabory-dlya-izgotovleniya-igrushek-13834/",
+            "Изготовление ножей": "https://www.ozon.ru/category/izgotovlenie-nozhey-39393/",
+            "Кожевенное дело": "https://www.ozon.ru/category/kozhevennoe-delo-34023/",
+            "Лэмпворк": "https://www.ozon.ru/category/lempvork-37063/",
+            "Мыловарение": "https://www.ozon.ru/category/mylovarenie-13822/",
+            "Плетение": "https://www.ozon.ru/category/pletenie-13721/",
+            "Пэчворк и квилтинг": "https://www.ozon.ru/category/pechvork-i-kvilting-13614/",
+            "Реставрация и золочение": "https://www.ozon.ru/category/restavratsiya-i-zolochenie-34676/",
+            "Скрапбукинг": "https://www.ozon.ru/category/skrapbuking-13573/",
+            "Гобелены и стринг-арт": "https://www.ozon.ru/category/sozdanie-gobelenov-13613/",
+            "Создание украшений": "https://www.ozon.ru/category/nabory-dlya-sozdaniya-ukrasheniy-13837/",
+            "Ткачество и прядение": "https://www.ozon.ru/category/tkachestvo-i-pryadeniye-38197/",
+            "Флористика": "https://www.ozon.ru/category/floristicheskie-peny-13711/",
+            "Шитье": "https://www.ozon.ru/category/shite-13596/",
+            "Материалы и инструменты для ювелиров": "https://www.ozon.ru/category/materialy-i-instrumenty-dlya-yuvelirov-39791/"
+        },
+        "Настольные и карточные игры": {
+            "Настольные игры": "https://www.ozon.ru/category/nastolnye-igry-13507/",
+            "Ходилки": "https://www.ozon.ru/category/nastolnye-igry-hodilki-39336/",
+            "Cпортивные игры": "https://www.ozon.ru/category/nastolnyy-futbol-hokkey-bilyard-7173/",
+            "Трансформационные психологические игры": "https://www.ozon.ru/category/transformatsionnye-igry-34939/",
+            "Карточные игры": "https://www.ozon.ru/category/kartochnye-igry-39337/",
+            "Игры в рулетку": "https://www.ozon.ru/category/igry-v-ruletku-39335/",
+            "Наборы для покера": "https://www.ozon.ru/category/nabory-dlya-pokera-13518/",
+            "Игральные карты": "https://www.ozon.ru/category/igralnye-karty-13517/",
+            "Шахматы": "https://www.ozon.ru/category/shahmaty-13509/",
+            "Нарды": "https://www.ozon.ru/category/nardy-13511/",
+            "Шашки": "https://www.ozon.ru/category/shashki-13510/",
+            "Лото": "https://www.ozon.ru/category/loto-13513/",
+            "Домино и маджонг": "https://www.ozon.ru/category/domino-13512/",
+            "Дополнения к настольным играм": "https://www.ozon.ru/category/dopolneniya-k-nastolnym-igram-39343/"
+        },
+        "Пазлы и головоломки": {
+            "Пазлы": "https://www.ozon.ru/category/pazly-13502/",
+            "Головоломки": "https://www.ozon.ru/category/golovolomki-7177/",
+            "Неокубы": "https://www.ozon.ru/category/neokuby-39814/"
+        },
+        "Музыкальные инструменты": {
+            "Гитары и аксессуары": "https://www.ozon.ru/category/gitary-i-aksessuary-13924/",
+            "Струнные инструменты": "https://www.ozon.ru/category/strunnye-instrumenty-13951/",
+            "Клавишные инструменты": "https://www.ozon.ru/category/klavishnye-instrumenty-13918/",
+            "Ударные и перкуссия": "https://www.ozon.ru/category/udarnye-i-perkussiya-13959/",
+            "Духовые инструменты": "https://www.ozon.ru/category/duhovye-instrumenty-13932/",
+            "Уход за музыкальными инструментами": "https://www.ozon.ru/category/uhod-za-muzykalnymi-instrumentami-37518/"
+        },
+        "Рисование": {
+            "Холсты, артборды и картон грунтованный": "https://www.ozon.ru/category/holsty-36228/",
+            "Бумага для черчения и рисования": "https://www.ozon.ru/category/bumaga-dlya-chercheniya-i-risovaniya-18008/",
+            "Мольберты и этюдники": "https://www.ozon.ru/category/molberty-13529/",
+            "Скетчбуки": "https://www.ozon.ru/category/sketchbuki-14017/",
+            "Краски": "https://www.ozon.ru/category/kraski-dlya-risovaniya-13530/",
+            "Наборы для рисования": "https://www.ozon.ru/category/nabory-dlya-risovaniya-13544/",
+            "Карандаши": "https://www.ozon.ru/category/karandashi-dlya-hudozhnikov-30187/",
+            "Маркеры": "https://www.ozon.ru/category/markery-30188/",
+            "Пастель": "https://www.ozon.ru/category/pastel-13547/",
+            "Пигменты": "https://www.ozon.ru/category/pigmenty-13539/",
+            "Глиттеры": "https://www.ozon.ru/category/glittery-hudozhestvennye-13541/",
+            "Уголь, сангина, сепия и соус": "https://www.ozon.ru/category/ugol-dlya-risovaniya-13550/",
+            "Средства для очищения кистей": "https://www.ozon.ru/category/sredstva-dlya-ochishcheniya-kistey-38044/",
+            "Экраны и проекторы": "https://www.ozon.ru/category/ekrany-dlya-risovaniya-13560/",
+            "Штампы и трафареты": "https://www.ozon.ru/category/shtampy-i-trafarety-13548/",
+            "Разбавители, загустители и грунты": "https://www.ozon.ru/category/razbaviteli-zagustiteli-i-grunty-dlya-risovaniya-35383/",
+            "Рисование на воде Эбру": "https://www.ozon.ru/category/risovanie-na-vode-ebru-34967/",
+            "Рисование жидким акрилом (Флюид-арт)": "https://www.ozon.ru/category/risovanie-zhidkim-akrilom-flyuid-art-37560/"
+        },
+        "Раскрашивание и роспись": {
+            "Раскраски": "https://www.ozon.ru/category/raskraski-13525/",
+            "Аэрография": "https://www.ozon.ru/category/aerografiya-dlya-tvorchestva-34907/",
+            "Наборы для росписи": "https://www.ozon.ru/category/nabory-dlya-rospisi-13527/",
+            "Шелкография": "https://www.ozon.ru/category/shelkografiya-34904/",
+            "Картины по номерам": "https://www.ozon.ru/category/kartiny-po-nomeram-13568/"
+        },
+        "Создание картин и фоторамок": {
+            "Картины по номерам": "https://www.ozon.ru/category/kartiny-po-nomeram-13568/",
+            "Картины из пайеток": "https://www.ozon.ru/category/kartiny-iz-payetok-13569/",
+            "Картины из эпоксидной смолы": "https://www.ozon.ru/category/nabory-dlya-kartin-iz-epoksidnoy-smoly-35045/",
+            "Наборы для создания фоторамок": "https://www.ozon.ru/category/nabory-dlya-sozdaniya-fotoramok-13572/",
+            "Папертоли": "https://www.ozon.ru/category/papertoli-13570/"
+        },
+        "Мозаики и фрески": {
+            "Алмазные мозаики": "https://www.ozon.ru/category/almaznye-mozaiki-13563/",
+            "Наборы для рисования песком": "https://www.ozon.ru/category/freski-13564/"
+        },
+        "Барельефы и витражи": "https://www.ozon.ru/category/barelefy-i-vitrazhi-13566/",
+        "Гравюры": "https://www.ozon.ru/category/gravyury-13565/",
+        "Лепка и скульптура": {
+            "Пластилин": "https://www.ozon.ru/category/plastilin-13734/",
+            "Глина для лепки": "https://www.ozon.ru/category/glina-polimernaya-13725/",
+            "Клеи и лак для полимерной глины": "https://www.ozon.ru/category/klei-i-lak-dlya-polimernoy-gliny-36257/",
+            "Наборы для создания слепков": "https://www.ozon.ru/category/nabory-dlya-sozdaniya-slepkov-13729/",
+            "Наборы для лепки": "https://www.ozon.ru/category/nabory-dlya-lepki-13728/",
+            "Слаймы": "https://www.ozon.ru/category/sozdanie-slaymov-34884/",
+            "Масса и тесто для лепки": "https://www.ozon.ru/category/massa-dlya-lepki-36252/",
+            "Инструменты": "https://www.ozon.ru/category/instrumenty-dlya-lepki-13730/",
+            "Гипс": "https://www.ozon.ru/category/gips-13724/",
+            "Кинетический песок": "https://www.ozon.ru/category/kineticheskiy-pesok-13726/",
+            "Цветной песок": "https://www.ozon.ru/category/tsvetnoy-pesok-13732/"
+        },
+        "Гончарное дело": "https://www.ozon.ru/category/goncharnoe-delo-37760/",
+        "Моделизм": {
+            "Принадлежности": "https://www.ozon.ru/category/prinadlezhnosti-dlya-modelirovaniya-13749/",
+            "Интерьерные миниатюры и сборка зданий": "https://www.ozon.ru/category/interernye-miniatyury-13746/",
+            "Военная техника и оружие": "https://www.ozon.ru/category/modeli-voennoy-tehniki-13744/",
+            "Автомобили и мотоциклы": "https://www.ozon.ru/category/modeli-avtomobiley-13740/",
+            "Самолеты и космические корабли": "https://www.ozon.ru/category/modeli-samoletov-13741/",
+            "Корабли и подводные лодки": "https://www.ozon.ru/category/modeli-korabley-i-podvodnyh-lodok-13743/",
+            "Модели из дерева": "https://www.ozon.ru/category/modeli-iz-dereva-13742/",
+            "Фигурки": "https://www.ozon.ru/category/modeli-dlya-sborki-14016/",
+            "Дополнения": "https://www.ozon.ru/category/dopolneniya-dlya-sbornyh-modeley-32787/"
+        },
+        "3D-ручки и аксессуары": {
+            "3D ручки": "https://www.ozon.ru/category/3d-ruchki-15775/",
+            "Картриджи для 3D ручек": "https://www.ozon.ru/category/kartridzhi-dlya-3d-ruchek-1598/"
+        },
+        "Оригами и поделки из бумаги": {
+            "Аппликации": "https://www.ozon.ru/category/applikatsii-13719/",
+            "Оригами": "https://www.ozon.ru/category/origami-13720/",
+            "Поделки из бумаги": "https://www.ozon.ru/category/sozdanie-podelok-iz-bumagi-36267/",
+            "Наборы для квиллинга": "https://www.ozon.ru/category/nabory-dlya-kvillinga-14013/",
+            "Папье-маше": "https://www.ozon.ru/category/nabory-dlya-pape-mashe-36268/"
+        },
+        "Изготовление косметики и духов": {
+            "Изготовление косметики": "https://www.ozon.ru/category/izgotovlenie-kosmetiki-39316/",
+            "Наборы для создания духов": "https://www.ozon.ru/category/nabory-dlya-sozdaniya-duhov-13832/",
+            "Наборы для создания причесок": "https://www.ozon.ru/category/nabory-dlya-sozdaniya-prichesok-35010/"
+        },
+        "Изготовление свечей и саше": "https://www.ozon.ru/category/izgotovlenie-svechey-13829/",
+        "Наборы для мастер-классов": "https://www.ozon.ru/category/nabory-dlya-master-klassa-34887/",
+        "Подарочные и новогодние наборы": "https://www.ozon.ru/category/nabory-dlya-tvorchestva-13543/",
+        "Адвент-календари": "https://www.ozon.ru/category/advent-kalendari-tvorcheskie-39048/",
+        "Фокусы": "https://www.ozon.ru/category/fokusy-13840/",
+        "Гадания и эзотерика": {
+            "Карты Таро": "https://www.ozon.ru/category/karty-taro-13843/",
+            "Амулеты, талисманы и ловцы снов": "https://www.ozon.ru/category/amulety-oberegi-i-talismany-13856/",
+            "Аксессуары и атрибутика для гаданий": "https://www.ozon.ru/category/aksessuary-i-atributika-dlya-gadaniy-13846/",
+            "Руны": "https://www.ozon.ru/category/runy-13844/",
+            "Магические аксессуары и материалы": "https://www.ozon.ru/category/magicheskie-aksessuary-i-materialy-13868/"
+        },
+        "Цветотипирование": "https://www.ozon.ru/category/tovary-dlya-tsvetotipirovaniya-37209/",
+        "Театральные бинокли": "https://www.ozon.ru/category/teatralnye-binokli-33333/",
+        "Криминалистика": "https://www.ozon.ru/category/kriminalistika-37756/",
+        "Лотерейные билеты": "https://www.ozon.ru/category/lotereynye-bilety-35036/"
+    },
+    "Игры и консоли": {
+        "Игровые жанры": {
+            "Шутеры и экшн (Shooter & Action)": "https://www.ozon.ru/category/ekshn-action-13335/",
+            "Ролевые игры (RPG & MMORPG)": "https://www.ozon.ru/category/rpg-rpg-13327/",
+            "Приключения (Adventure)": "https://www.ozon.ru/category/priklyucheniya-adventure-13325/",
+            "Спортивные игры (Sports)": "https://www.ozon.ru/category/sportivnye-igry-sports-13331/",
+            "Драки (Fighting)": "https://www.ozon.ru/category/draki-fighting-13320/",
+            "Гонки (Racing)": "https://www.ozon.ru/category/gonki-racing-13319/",
+            "Симуляторы (Simulation)": "https://www.ozon.ru/category/simulyatory-simulation-13329/",
+            "Аркады (Arcade)": "https://www.ozon.ru/category/arkady-arcade-13317/",
+            "Ужасы (Horror)": "https://www.ozon.ru/category/uzhasy-horror-13333/",
+            "Игры для всей семьи (Family)": "https://www.ozon.ru/category/semeynye-i-detskie-igry-family-13328/",
+            "Стратегии (Strategy)": "https://www.ozon.ru/category/strategii-strategy-13332/",
+            "Квесты и логика (Quest & Logic)": "https://www.ozon.ru/category/kvesty-quest-13321/"
+        },
+        "PlayStation": {
+            "Игровые консоли": "https://www.ozon.ru/category/konsoli-playstation-31751/",
+            "Игры для PlayStation 5": "https://www.ozon.ru/category/igry-dlya-playstation-5-38457/",
+            "Игры для PlayStation 4": "https://www.ozon.ru/category/igry-dlya-playstation-4-38456/",
+            "Игры для PlayStation 2/3": "https://www.ozon.ru/category/igry-dlya-playstation-3-13303/",
+            "Игры для PlayStation Portable/Vita": "https://www.ozon.ru/category/igry-dlya-playstation-portable-13305/"
+        },
+        "Nintendo": {
+            "Консоли": "https://www.ozon.ru/category/konsoli-nintendo-switch-31761/",
+            "Игры для Nintendo Switch": "https://www.ozon.ru/category/igry-dlya-nintendo-switch-13309/",
+            "Игры для Nintendo Wii/3DS": "https://www.ozon.ru/category/igry-dlya-nintendo-wii-13310/"
+        },
+        "Xbox": {
+            "Консоли": "https://www.ozon.ru/category/konsoli-xbox-series-x-34802/",
+            "Игры для Xbox One": "https://www.ozon.ru/category/igry-dlya-xbox-one-13307/",
+            "Игры для Xbox 360": "https://www.ozon.ru/category/igry-dlya-xbox-360-13308/",
+            "Игры для Xbox Series": "https://www.ozon.ru/category/igry-dlya-xbox-series-38520/"
+        },
+        "Игровые приставки": "https://www.ozon.ru/category/igrovye-pristavki-15801/",
+        "Mobile gaming": {
+            "Игровые планшеты": "https://www.ozon.ru/category/igrovye-planshety-31928/",
+            "Геймпады и джойстики": "https://www.ozon.ru/category/geympady-i-dzhoystiki-dlya-smartfonov-31933/",
+            "Игровые адаптеры": "https://www.ozon.ru/category/igrovye-adaptery-dlya-smartfona-35286/",
+            "Очки виртуальной реальноcти для смартфонов": "https://www.ozon.ru/category/ochki-virtualnoy-realnocti-dlya-smartfonov-15521/"
+        },
+        "Ретро-консоли": "https://www.ozon.ru/category/retro-konsoli-31722/",
+        "Игровые картриджи": "https://www.ozon.ru/category/igrovye-kartridzhi-15814/",
+        "Игровая атрибутика": "https://www.ozon.ru/category/igrovaya-atributika-1672/",
+        "Игровые наушники": {
+            "Электроника": "https://www.ozon.ru/category/elektronika-15500/",
+            "Компьютеры": "https://www.ozon.ru/category/kompyutery-i-komplektuyushchie-15690/",
+            "Периферия": "https://www.ozon.ru/category/periferiya-dlya-kompyuterov-15736/"
+        },
+        "Геймпады": "https://www.ozon.ru/category/geympady-15823/",
+        "Очки виртуальной реальности": "https://www.ozon.ru/category/ochki-virtualnoy-realnosti-dlya-igr-15825/"
+    },
+    "Антиквариат и коллекционирование": {
+        "Коллекционирование": {
+            "Куклы": "https://www.ozon.ru/category/kukly-kollektsionnye-39578/",
+            "Открытки и конверты": "https://www.ozon.ru/category/filokartiya-13799/",
+            "Значки": "https://www.ozon.ru/category/znachki-13795/",
+            "Монеты": "https://www.ozon.ru/category/monety-13765/",
+            "Календари": "https://www.ozon.ru/category/filotaymiya-37978/",
+            "Марки": "https://www.ozon.ru/category/marki-13757/",
+            "Банкноты": "https://www.ozon.ru/category/banknoty-13778/",
+            "Карточки": "https://www.ozon.ru/category/kartochki-kollektsionnye-32948/",
+            "Билеты": "https://www.ozon.ru/category/kollektsionnye-bilety-37461/",
+            "Этикетки и пробки": "https://www.ozon.ru/category/etiketki-butylki-probki-39189/",
+            "Модели и фигурки": "https://www.ozon.ru/category/kollektsionirovanie-modeley-13812/",
+            "Журналы и наклейки": "https://www.ozon.ru/category/kollektsionirovanie-zhurnalov-i-nakleek-13813/",
+            "Ценные бумаги": "https://www.ozon.ru/category/tsennye-bumagi-13786/",
+            "Жетоны": "https://www.ozon.ru/category/ekzonumiya-13790/",
+            "Автографы и фото коллекционные": "https://www.ozon.ru/category/avtografy-38053/",
+            "Минералы и окаменелости": "https://www.ozon.ru/category/kollektsionirovanie-mineralov-34667/",
+            "Насекомые": "https://www.ozon.ru/category/entomologiya-37448/",
+            "Наперстки": "https://www.ozon.ru/category/kollektsionirovanie-naperstkov-13807/",
+            "Наборы": "https://www.ozon.ru/category/kollektsionnye-nabory-13819/",
+            "Средства для ухода": "https://www.ozon.ru/category/uhod-za-kollektsiyami-39577/",
+            "Хранение коллекций": "https://www.ozon.ru/category/holdery-13772/"
+        },
+        "Посуда и утварь": {
+            "Посуда для чая и кофе": "https://www.ozon.ru/category/vse-dlya-chaya-i-kofe-8002/",
+            "Тарелки и блюда": "https://www.ozon.ru/category/stolovaya-posuda-8006/",
+            "Предметы сервировки": "https://www.ozon.ru/category/servirovka-stola-8004/",
+            "Стекло и всё для бара": "https://www.ozon.ru/category/steklo-i-vse-dlya-bara-8005/",
+            "Столовые приборы": "https://www.ozon.ru/category/antikvarnye-stolovye-pribory-8007/",
+            "Сервизы": "https://www.ozon.ru/category/servizy-8045/",
+            "Кухонная утварь": "https://www.ozon.ru/category/vintazhnye-aksessuary-dlya-hraneniya-produktov-8008/",
+            "Посуда для приготовления": "https://www.ozon.ru/category/posuda-dlya-prigotovleniya-pishchi-8003/"
+        },
+        "Предметы военной истории": "https://www.ozon.ru/category/voennaya-atributika-37035/",
+        "Предметы интерьера": {
+            "Скульптуры и статуэтки": "https://www.ozon.ru/category/skulptury-i-statuetki-8016/",
+            "Вазы, кашпо": "https://www.ozon.ru/category/antikvarnye-vazy-8010/",
+            "Элементы интерьера": "https://www.ozon.ru/category/elementy-interera-8019/",
+            "Подсвечники и аромалампы": "https://www.ozon.ru/category/podsvechniki-i-svechi-8013/",
+            "Часы интерьерные": "https://www.ozon.ru/category/antikvarnye-chasy-8017/",
+            "Освещение": "https://www.ozon.ru/category/svetilniki-i-lampy-8015/",
+            "Шкатулки и копилки": "https://www.ozon.ru/category/antikvarnye-shkatulki-8018/",
+            "Фоторамки и альбомы": "https://www.ozon.ru/category/fotografii-i-albomy-8036/",
+            "Подставки": "https://www.ozon.ru/category/vintazhnye-podstavki-pod-goryachee-35302/"
+        },
+        "Предметы быта": {
+            "Игрушки и игры": "https://www.ozon.ru/category/igrushki-8037/",
+            "Бытовые товары": "https://www.ozon.ru/category/antikvarnye-bytovye-tovary-39593/",
+            "Текстиль": "https://www.ozon.ru/category/antikvarnye-podushki-8044/",
+            "Товары для рукоделия": "https://www.ozon.ru/category/vintazhnye-tovary-dlya-rukodeliya-36791/",
+            "Предметы гигиены": "https://www.ozon.ru/category/tualetnye-nabory-vintazh-38779/"
+        },
+        "Мебель": "https://www.ozon.ru/category/mebel-8020/",
+        "Украшения": "https://www.ozon.ru/category/ukrasheniya-vintazhnye-8080/",
+        "Часы наручные": "https://www.ozon.ru/category/karmannye-chasy-antikvarnye-30703/",
+        "Канцелярия": "https://www.ozon.ru/category/antikvarnye-kantselyarskie-tovary-8038/",
+        "Приборы и инструменты": "https://www.ozon.ru/category/pribory-i-instrumenty-8040/",
+        "Живопись и графика": {
+            "Гравюры и литографии": "https://www.ozon.ru/category/gravyury-i-ikony-8029/",
+            "Плакаты и фотографии": "https://www.ozon.ru/category/plakaty-i-postery-8032/",
+            "Картины и рисунки": "https://www.ozon.ru/category/reproduktsii-8034/",
+            "Географические карты": "https://www.ozon.ru/category/antikvarnye-geograficheskie-karty-8028/"
+        },
+        "Виниловые пластинки": "https://www.ozon.ru/category/vintazhnye-vinilovye-plastinki-32689/",
+        "Галантерея": "https://www.ozon.ru/category/galantereya-8026/",
+        "Товары для курения": "https://www.ozon.ru/category/tovary-dlya-kureniya-8042/",
+        "Диафильмы": "https://www.ozon.ru/category/diafilmy-vintazhnye-33111/",
+        "Музыкальные инструменты": "https://www.ozon.ru/category/vintazhnye-muzykalnye-instrumenty-36792/",
+        "Религиозная атрибутика": "https://www.ozon.ru/category/starinnye-ikony-32189/"
+    },
+    "Музыка и видео": {
+        "Музыка": {
+            "Поп-музыка": "https://www.ozon.ru/category/pop-muzyka-13101/",
+            "Рок": "https://www.ozon.ru/category/rok-13108/",
+            "Джаз и блюз": "https://www.ozon.ru/category/dzhaz-i-blyuz-13160/",
+            "Электронная музыка": "https://www.ozon.ru/category/elektronnaya-muzyka-13138/",
+            "Метал": "https://www.ozon.ru/category/metal-38030/",
+            "Рэп и R&B": "https://www.ozon.ru/category/rep-i-r-b-13133/",
+            "Кантри и регги": "https://www.ozon.ru/category/reggi-13137/",
+            "Музыка мира": "https://www.ozon.ru/category/muzyka-mira-13181/",
+            "Саундтреки": "https://www.ozon.ru/category/saundtreki-13176/",
+            "Классическая музыка": "https://www.ozon.ru/category/klassicheskaya-muzyka-13148/",
+            "Авторская песня": "https://www.ozon.ru/category/avtorskaya-pesnya-13174/",
+            "Романс и шансон": "https://www.ozon.ru/category/shanson-13175/",
+            "Детская музыка": "https://www.ozon.ru/category/detskaya-muzyka-13173/"
+        },
+        "Виниловые пластинки": "https://www.ozon.ru/category/vinilovye-plastinki-31667/",
+        "Видео": {
+            "Художественные фильмы": "https://www.ozon.ru/category/hudozhestvennye-filmy-13001/",
+            "Мультфильмы": "https://www.ozon.ru/category/multfilmy-13033/",
+            "Концерты, клипы и театральные постановки": "https://www.ozon.ru/category/kontserty-myuzikly-videoklipy-13064/",
+            "Сериалы": "https://www.ozon.ru/category/serialy-13021/",
+            "Документальные фильмы": "https://www.ozon.ru/category/dokumentalnye-filmy-13041/",
+            "Телевизионные программы и видеоуроки": "https://www.ozon.ru/category/televizionnye-programmy-i-videouroki-13053/"
+        }
+    }
+}
